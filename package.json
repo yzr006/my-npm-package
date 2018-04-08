@@ -1,5 +1,5 @@
 {
-  "name": "my-npm-package",
+  "name": "my-npm-package-472967455",
   "version": "1.0.1",
   "description": "test",
   "main": "index.js",
@@ -13,7 +13,7 @@
   "keywords": [
     "test"
   ],
-  "author": "terry",
+  "author": "472967455",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/yzr006/my-npm-package/issues"
