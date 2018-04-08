@@ -1,0 +1,22 @@
+{
+  "name": "my-npm-package",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yzr006/my-npm-package.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "terry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yzr006/my-npm-package/issues"
+  },
+  "homepage": "https://github.com/yzr006/my-npm-package#readme"
+}
